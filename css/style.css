@@ -1,0 +1,25 @@
+.bg-orange{
+	background-color: orange;
+	/* height: 300px; */
+}
+.bg-blue{
+	background-color: royalblue;
+	height: 300px;
+}
+/* .collapse{
+	position: relative;
+} */
+/* ul{
+	margin-left: auto;
+} */
+
+.navbar{
+	background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+}
+/* .carousel{
+	height: 80vh;
+}
+img{
+	height: 80vh;
+
+} */
